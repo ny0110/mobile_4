@@ -1,16 +1,13 @@
-# mobile_4
+# Практическая работа 4
 
-A new Flutter project.
+Тимошина Полина, ЭФБО-05-22
 
-## Getting Started
+<img width="1440" alt="Снимок экрана 2024-12-17 в 23 07 36" src="https://github.com/user-attachments/assets/29ce2e36-5c0d-4c3f-a6a1-c945479f07e3" />
 
-This project is a starting point for a Flutter application.
+<img width="1440" alt="Снимок экрана 2024-12-17 в 23 42 15" src="https://github.com/user-attachments/assets/43eb9949-3601-4a79-9443-11694eb0688a" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1440" alt="Снимок экрана 2024-12-17 в 23 23 32" src="https://github.com/user-attachments/assets/e9564152-215e-4d58-8180-59b0254daa3f" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1440" alt="Снимок экрана 2024-12-17 в 23 23 44" src="https://github.com/user-attachments/assets/bf74a8d6-d261-4332-b65a-b293d9a81cf8" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Удаление реализовано свайпом карточки влево.
